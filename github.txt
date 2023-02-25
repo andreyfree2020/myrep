@@ -1,3 +1,4 @@
-<?php
-phpinfo();
-?>
+<?php # First line
+phpinfo(); # Second line
+?> # Third line
+#Just for test
